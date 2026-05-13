@@ -49,6 +49,6 @@ The system provides answers to specific business questions, including:
 4. Monitoring studio utilization and idle time.
 5. Tracking specific equipment usage per project.
 
-## 👥 Contributors
-* **Team Members:** Zyad Reda & Team
+## 👥 Contributors 
+* **Team Members:** Zyad Reda & Yousif hany kamel & Ayman Esmail Emam & Abd Al-rahman Hassan & Mohamed Helmy Ramadan
 * **Lab TA:** Lamiaa Atef
